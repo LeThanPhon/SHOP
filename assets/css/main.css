@@ -1,6 +1,6 @@
 .header {
     height: var(--header-height);
-    background-image: linear-gradient(0, #FF6634, #F43C2D);
+    background-image: linear-gradient(0, #4979ff, #1100f8);
     position: fixed;
     z-index: 1;
     top: 0;
